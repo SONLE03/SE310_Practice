@@ -1,0 +1,10 @@
+C:\Users\sonle\Desktop\BTT1\BTT1\bin\Debug\BTT1.exe.config
+C:\Users\sonle\Desktop\BTT1\BTT1\bin\Debug\BTT1.exe
+C:\Users\sonle\Desktop\BTT1\BTT1\bin\Debug\BTT1.pdb
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.csproj.AssemblyReference.cache
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.Form1.resources
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.Properties.Resources.resources
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.csproj.GenerateResource.cache
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.csproj.CoreCompileInputs.cache
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.exe
+C:\Users\sonle\Desktop\BTT1\BTT1\obj\Debug\BTT1.pdb
